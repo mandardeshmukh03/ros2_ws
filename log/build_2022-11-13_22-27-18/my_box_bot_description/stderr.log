@@ -1,0 +1,18 @@
+[31mCMake Error at CMakeLists.txt:54 (find_package):
+  By not providing "Findvelocity_controllers.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "velocity_controllers", but CMake did not find one.
+
+  Could not find a package configuration file provided by
+  "velocity_controllers" with any of the following names:
+
+    velocity_controllersConfig.cmake
+    velocity_controllers-config.cmake
+
+  Add the installation prefix of "velocity_controllers" to CMAKE_PREFIX_PATH
+  or set "velocity_controllers_DIR" to a directory containing one of the
+  above files.  If "velocity_controllers" provides a separate development
+  package or SDK, be sure it has been installed.
+
+[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

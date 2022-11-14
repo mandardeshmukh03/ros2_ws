@@ -1,0 +1,12 @@
+-- Install configuration: ""
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//urdf
+-- Installing: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//urdf/box_bot_control_complete_velocity.urdf
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//rviz
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//launch
+-- Installing: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//launch/urdf_visualize_control_velocity.launch.py
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes/sensors
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes/textures
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//config
+-- Installing: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//config/controller_position_velocity.yaml
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description/package.dsv

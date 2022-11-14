@@ -1,0 +1,10 @@
+-- Install configuration: ""
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo//launch
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo//launch/spawn_robot_ros2_control_velocity.launch.xml
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo//launch/control_position_velocity.launch.py
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo//worlds
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo//models
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo//models/box_room
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo//models/box_room/meshes
+-- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_gazebo/lib/my_box_bot_gazebo/move_laser.py
+-- Installing: /home/mandar/ros2_ws/install/my_box_bot_gazebo/share/my_box_bot_gazebo/package.dsv

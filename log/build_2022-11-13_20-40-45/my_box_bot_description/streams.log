@@ -1,0 +1,13 @@
+[0.026s] Invoking command in '/home/mandar/ros2_ws/build/my_box_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12
+[0.068s] Invoked command in '/home/mandar/ros2_ws/build/my_box_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12
+[0.103s] Invoking command in '/home/mandar/ros2_ws/build/my_box_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mandar/ros2_ws/build/my_box_bot_description
+[0.110s] -- Install configuration: ""
+[0.111s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//urdf
+[0.111s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//rviz
+[0.111s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//launch
+[0.111s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes
+[0.111s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes/sensors
+[0.112s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes/textures
+[0.112s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//config
+[0.112s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description/package.dsv
+[0.117s] Invoked command in '/home/mandar/ros2_ws/build/my_box_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mandar/ros2_ws/build/my_box_bot_description

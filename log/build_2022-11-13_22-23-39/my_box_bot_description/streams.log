@@ -1,0 +1,26 @@
+[0.020s] Invoking command in '/home/mandar/ros2_ws/build/my_box_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12
+[0.045s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.185s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[0.219s] -- Found xacro: 2.0.7 (/opt/ros/humble/share/xacro/cmake)
+[0.221s] -- Found ros2_control: 2.16.0 (/opt/ros/humble/share/ros2_control/cmake)
+[0.234s] [31mCMake Error at CMakeLists.txt:51 (find_package):
+[0.234s]   By not providing "Findgazebo_ros2_control.cmake" in CMAKE_MODULE_PATH this
+[0.234s]   project has asked CMake to find a package configuration file provided by
+[0.234s]   "gazebo_ros2_control", but CMake did not find one.
+[0.234s] 
+[0.234s]   Could not find a package configuration file provided by
+[0.234s]   "gazebo_ros2_control" with any of the following names:
+[0.234s] 
+[0.234s]     gazebo_ros2_controlConfig.cmake
+[0.235s]     gazebo_ros2_control-config.cmake
+[0.235s] 
+[0.235s]   Add the installation prefix of "gazebo_ros2_control" to CMAKE_PREFIX_PATH
+[0.235s]   or set "gazebo_ros2_control_DIR" to a directory containing one of the above
+[0.235s]   files.  If "gazebo_ros2_control" provides a separate development package or
+[0.235s]   SDK, be sure it has been installed.
+[0.235s] 
+[0.235s] [0m
+[0.235s] -- Configuring incomplete, errors occurred!
+[0.235s] See also "/home/mandar/ros2_ws/build/my_box_bot_description/CMakeFiles/CMakeOutput.log".
+[0.238s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.240s] Invoked command in '/home/mandar/ros2_ws/build/my_box_bot_description' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12

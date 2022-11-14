@@ -1,0 +1,39 @@
+[0.027s] Invoking command in '/home/mandar/ros2_ws/build/my_box_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/mandar/ros2_ws/src/my_box_bot_description -DCMAKE_INSTALL_PREFIX=/home/mandar/ros2_ws/install/my_box_bot_description
+[0.124s] -- The C compiler identification is GNU 11.3.0
+[0.227s] -- The CXX compiler identification is GNU 11.3.0
+[0.237s] -- Detecting C compiler ABI info
+[0.320s] -- Detecting C compiler ABI info - done
+[0.340s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.341s] -- Detecting C compile features
+[0.342s] -- Detecting C compile features - done
+[0.348s] -- Detecting CXX compiler ABI info
+[0.444s] -- Detecting CXX compiler ABI info - done
+[0.453s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.453s] -- Detecting CXX compile features
+[0.454s] -- Detecting CXX compile features - done
+[0.456s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.656s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.751s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[0.815s] -- Found xacro: 2.0.7 (/opt/ros/humble/share/xacro/cmake)
+[0.817s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.914s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.915s] -- Added test 'lint_cmake' to check CMake code style
+[0.916s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.920s] -- Added test 'xmllint' to check XML markup files
+[0.922s] -- Configuring done
+[0.926s] -- Generating done
+[0.928s] -- Build files have been written to: /home/mandar/ros2_ws/build/my_box_bot_description
+[0.942s] Invoked command in '/home/mandar/ros2_ws/build/my_box_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/mandar/ros2_ws/src/my_box_bot_description -DCMAKE_INSTALL_PREFIX=/home/mandar/ros2_ws/install/my_box_bot_description
+[0.944s] Invoking command in '/home/mandar/ros2_ws/build/my_box_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12
+[0.988s] Invoked command in '/home/mandar/ros2_ws/build/my_box_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12
+[1.022s] Invoking command in '/home/mandar/ros2_ws/build/my_box_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mandar/ros2_ws/build/my_box_bot_description
+[1.032s] -- Install configuration: ""
+[1.032s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//urdf
+[1.032s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//rviz
+[1.032s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//launch
+[1.032s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes
+[1.032s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes/sensors
+[1.032s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//meshes/textures
+[1.032s] -- Up-to-date: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description//config
+[1.032s] -- Installing: /home/mandar/ros2_ws/install/my_box_bot_description/share/my_box_bot_description/package.dsv
+[1.035s] Invoked command in '/home/mandar/ros2_ws/build/my_box_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mandar/ros2_ws/build/my_box_bot_description

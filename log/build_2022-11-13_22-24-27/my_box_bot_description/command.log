@@ -1,0 +1,2 @@
+Invoking command in '/home/mandar/ros2_ws/build/my_box_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12
+Invoked command in '/home/mandar/ros2_ws/build/my_box_bot_description' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mandar/ros2_ws/build/my_box_bot_description -- -j12 -l12
